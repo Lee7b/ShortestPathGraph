@@ -1,0 +1,6 @@
+﻿  Source.cpp
+e:\documents\cpp projects\algorithms_p3\algorithms_p3\source.cpp(3): warning C4005: 'INFINITY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(78): note: see previous definition of 'INFINITY'
+e:\documents\cpp projects\algorithms_p3\algorithms_p3\source.cpp(210): warning C4101: 'j': unreferenced local variable
+e:\documents\cpp projects\algorithms_p3\algorithms_p3\source.cpp(210): warning C4101: 'i': unreferenced local variable
+  Algorithms_P3.vcxproj -> E:\Documents\CPP Projects\Algorithms_P3\Debug\Algorithms_P3.exe
